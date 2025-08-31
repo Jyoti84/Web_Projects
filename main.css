@@ -1,0 +1,16 @@
+*{
+    margin:0px;
+    padding: 0%;
+}
+.first{
+    background-color:brown
+}
+#id{
+    background-color:rgb(179, 179, 53)
+}
+h3{
+    background-color: green;
+}
+div p{
+    background-color: rgb(104, 104, 192);
+}
